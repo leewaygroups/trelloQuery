@@ -30,6 +30,9 @@ build/Release
 node_modules
 jspm_packages
 
+# Editor specific config directory
+.vscode
+
 # Optional npm cache directory
 .npm
 
